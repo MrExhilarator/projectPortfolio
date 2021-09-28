@@ -1,4 +1,3 @@
-# On - Demand Session
+# Project Portfolio
 
-- Identifying the State
 - Updating the styles based on State
